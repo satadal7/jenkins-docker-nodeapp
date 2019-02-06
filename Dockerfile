@@ -5,4 +5,4 @@ FROM node:7-onbuild
 LABEL maintainer "davar"
 
 # tell docker what port to expose
-EXPOSE 8000
+EXPOSE 8080
